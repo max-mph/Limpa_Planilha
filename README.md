@@ -1,6 +1,8 @@
 # Limpa_Planilha
 
 ##Leitura:
+
+- pandas.read_pickle
 - pandas.read_table()
 - pandas.read_csv()
 - pandas.read_clipboard()
